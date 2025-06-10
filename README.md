@@ -1,6 +1,6 @@
 ## Tema da Pesquisa
 
-**Inteligência Artificial Generativa para contexto de dados médicos**
+**Compressão de Modelos Transformers para NLP**
 
 Este projeto tem como objetivo avaliar e comparar técnicas de compressão aplicadas a modelos Transformers em tarefas de Processamento de Linguagem Natural (NLP) em inglês. O foco está na análise do desempenho desses modelos comprimidos em ambientes com recursos computacionais limitados, como dispositivos embarcados, CPUs sem GPU dedicada ou servidores de baixo custo. A pesquisa contribui para o avanço do uso eficiente de modelos de linguagem em contextos com restrições de hardware, promovendo acessibilidade e sustentabilidade no uso da IA.
 
@@ -21,4 +21,4 @@ O repositório está organizado conforme os principais marcos do percurso de pes
 
 Se utilizar materiais, scripts ou resultados deste repositório, por favor, cite conforme o seguinte modelo:
 
-> "Este material foi produzido no contexto do Mestrado em Ciência da Computação, sob orientação do Prof. Dr. Saulo Anderson Freitas de Oliveira, com foco em Inteligência Artificial Generativa para contexto de dados médicos."
+> "Este material foi produzido no contexto do Mestrado em Ciência da Computação, sob orientação do Prof. Dr. Saulo Anderson Freitas de Oliveira, ccom foco na compressão de modelos de linguagem para uso eficiente em ambientes com baixo poder computacional."
